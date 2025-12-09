@@ -2,7 +2,6 @@
 title: "Adapting to Latent Subgroup Shifts via Concepts and Proxies"
 collection: publications
 category: conferences
-permalink: /publications/2023-04-11_adapting-to-latent-shifts
 date: 2023-04-11
 venue: 'International Conference on Artificial Intelligence and Statistics (AISTATS)'
 paperurl: 'https://proceedings.mlr.press/v206/alabdulmohsin23a/alabdulmohsin23a.pdf'
