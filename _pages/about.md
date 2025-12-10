@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning researcher focused on AI safety and trustworthiness. I am interested in developing rigorous evaluation methodologies inspired by causal inference.
-
+I am a machine learning researcher passionate about improving the safety and trustworthiness of AI systems. I am particularly interested in using tools from the causal inference literature to develop rigorous evaluation methodologies and study distribution shifts.
 
 
 About me
 ======
-Hi! I’m Nicole. I am a Ph.D. student at Stanford University studying Computer Science and Machine Learning. In my research, I focus on the evaluation of fairness in complex AI pipelines by bridging the fields of causal inference and measurement theory. Motivated by challenging problem areas in healthcare, I adopt a human-centered perspective for the improvement of transparency and trustworthiness in generative medical AI systems. Finally, my past and present research is connected by the underlying theme of characterizing uncertainy under distrbituion shifts. 
+I am a fourth-year Ph.D. student in Computer Science at Stanford University, advised by Sanmi Koyejo. In my research, I focus on the evaluation of fairness in complex AI pipelines by bridging the fields of causal inference and measurement theory. Motivated by challenging problem areas in healthcare, I adopt a human-centered perspective for the improvement of transparency and trustworthiness in generative medical AI systems. Finally, my past and present research is connected by the underlying theme of characterizing uncertainy under distrbituion shifts. 
